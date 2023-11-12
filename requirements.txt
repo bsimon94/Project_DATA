@@ -1,1 +1,14 @@
-
+streamlit
+pandas
+numpy
+matplotlib.pyplot
+plotly.express
+seaborn
+scipy
+PIL
+sklearn.model_selection import train_test_split
+sklearn.ensemble import RandomForestRegressor
+sklearn.linear_model import LinearRegression
+sklearn.tree import DecisionTreeRegressor
+sklearn.metrics import r2_score
+joblib
