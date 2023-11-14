@@ -1,9 +1,9 @@
 python 3.9
-streamlit as st
-pandas as pd
-numpy as np
-matplotlib.pyplot as plt
-plotly.express as px
-seaborn as sns
-cipy import stats
-PIL import Image
+streamlit
+pandas
+numpy
+matplotlib.pyplot
+plotly.express
+seaborn
+stats
+Image
