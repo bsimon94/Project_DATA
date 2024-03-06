@@ -1,5 +1,6 @@
-python 3.9
+python 3.10
 streamlit
+pip-24.0
 pandas
 numpy
 matplotlib.pyplot
